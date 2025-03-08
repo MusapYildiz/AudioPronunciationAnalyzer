@@ -27,12 +27,8 @@ Before you begin, make sure your system is prepared by installing the necessary 
 This project requires `ffmpeg` to be installed on your system for audio and video processing. You can install `ffmpeg` on Linux-based systems using the following commands:
 
    ```bash
-   # Update your package list
    sudo apt update
-
-   # Install ffmpeg
    sudo apt install ffmpeg
-   
    
 ## Usage
 
