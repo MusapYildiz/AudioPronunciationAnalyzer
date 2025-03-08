@@ -33,6 +33,7 @@ This project requires `ffmpeg` to be installed on your system for audio and vide
    # Install ffmpeg
    sudo apt install ffmpeg
    
+   
 ## Usage
 
 You can run the program by executing main.py. It will record audio, transcribe it to text, and analyze the pronunciation against the reference sentence.
