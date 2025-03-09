@@ -22,8 +22,6 @@ This project records audio from the user, converts it to text using OpenAI's Whi
 
 Before you begin, make sure your system is prepared by installing the necessary dependencies.
 
-### Install `ffmpeg`
-
 This project requires `ffmpeg` to be installed on your system for audio and video processing. You can install `ffmpeg` on Linux-based systems using the following commands:
 
    ```bash
