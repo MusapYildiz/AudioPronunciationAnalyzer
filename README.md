@@ -27,11 +27,12 @@ This project records audio from the user, converts it to text using OpenAI's Whi
    
 ## Usage
 
-You can run the program by executing main.py. It will record audio, transcribe it to text, and analyze the pronunciation against the reference sentence.
+1. You can run the program by executing main.py. It will record audio, transcribe it to text, and analyze the pronunciation against the reference sentence.
    ```bash
    python main.py
    
 ## Example Output
+1. 
    ```bash
    Spoken Text: The quick brown fox jumps over the lazy dog
 Pronunciation Analysis:
