@@ -32,7 +32,7 @@ This project records audio from the user, converts it to text using OpenAI's Whi
    python main.py
    
 ## Example Output
-1. 
+
    Spoken Text: The quick brown fox jumps over the lazy dog
 Pronunciation Analysis:
 {'word': 'the', 'expected_phonemes': ['T', 'HH', 'AH'], 'spoken_phonemes': ['T', 'HH', 'AH'], 'accuracy': 100.0}
